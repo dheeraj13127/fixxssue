@@ -1,8 +1,6 @@
 ## About Fixxssue
 This application is all about displaying the issues from a particular repository and searching the issues by filtering it.
 
-## This application can be viewed here
-[https://fixxssue.netlify.app](https://fixxssue.netlify.app)
 
 
 ## Getting Started with Fixxssue
