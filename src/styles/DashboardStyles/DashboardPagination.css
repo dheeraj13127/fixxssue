@@ -1,0 +1,13 @@
+.dashboardPaginationColumn{
+    padding: 35px 0px !important;
+    
+ }
+ .dashboardPaginationBox{
+     margin-top: -100px !important;
+ }
+ @media only screen and (max-width: 380px) {
+
+  .dashboardPaginationBox{
+      margin-left: -10px !important;
+  }
+  }

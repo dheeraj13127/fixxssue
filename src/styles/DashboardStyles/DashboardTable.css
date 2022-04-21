@@ -1,0 +1,43 @@
+.dashboardTableContainer{
+  
+    padding: 35px 15px 35px 15px !important;
+   
+
+}
+.dashboardTableColumn{
+    border: 1px solid white;
+    border-radius: 8px !important;
+    padding: 30px 15px 30px 15px !important;
+}
+.dashboardTableData{
+   background-color: white !important;
+   margin-top: -10px !important;
+   font-family: 'Poppins',sans-serif !important;
+}
+
+.dashboardTableData:hover{
+    background-color: rgb(207, 203, 203) !important;
+}
+.dotCircleIcon{
+    color: #3FB950 !important;
+    margin-right: 8px !important;
+    font-size: 15px !important;
+}
+.dashboardTableIssueTitle{
+    font-family: 'Poppins',sans-serif !important;
+    word-wrap: break-word !important;
+ 
+}
+.dashboardTableIssueInfo{
+    color: black !important;
+    font-family: 'Roboto',sans-serif !important;
+    font-size: 13px;
+}
+@media only screen and (max-width: 610px) {
+
+  .dashboardTableIssueTitle{
+      font-size: 12px !important;
+      display: flex !important;
+      flex-direction: column !important;
+  }
+}
