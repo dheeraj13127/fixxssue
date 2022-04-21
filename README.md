@@ -4,7 +4,8 @@
 
 ## Getting Started with Fixxssue
 
-Just git clone 
+Just git clone using 
+https://github.com/dheeraj13127/fixxssue.git
 
 ## Available Scripts
 
