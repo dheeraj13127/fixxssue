@@ -1,6 +1,10 @@
-# Getting Started with Fixxssue
+## This application can be viewed here
+[https://fixxssue.netlify.app](https://fixxssue.netlify.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started with Fixxssue
+
+Just git clone 
 
 ## Available Scripts
 
